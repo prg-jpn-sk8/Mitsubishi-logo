@@ -1,5 +1,7 @@
 from turtle import *
 
+title("Mitsubishi")
+
 goto(0, 0)
 
 hideturtle()
